@@ -1167,6 +1167,7 @@ A [human resources management system](https://en.wikipedia.org/wiki/Human_resour
 - [Tasmota](https://tasmota.com) - Open source firmware for ESP devices. Total local control with quick setup and updates. Control using MQTT, Web UI, HTTP or serial. Automate using timers, rules or scripts. Integration with home automation solutions. ([Source Code](https://github.com/arendst/Tasmota)) `GPL-3.0` `C/C++`
 - [Thingsboard](https://thingsboard.io/) - Open-source IoT Platform - Device management, data collection, processing and visualization. ([Demo](https://demo.thingsboard.io/signup), [Source Code](https://github.com/thingsboard/thingsboard)) `Apache-2.0` `Java/Docker/K8S`
 - [WebThings Gateway](https://webthings.io/gateway/) - WebThings is an open source implementation of the Web of Things, including the WebThings Gateway and the WebThings Framework. ([Source Code](https://github.com/WebThingsIO/gateway)) `MPL-2.0` `Nodejs`
+- [RustChain](https://github.com/Scottcjn/Rustchain) - DePIN blockchain with Proof-of-Antiquity (PoA) consensus that rewards vintage hardware for distributed compute. [[RTC](https://tronscan.org/#/token20/TK4T坑npBhR8DrcNEjhhDCN2xARXTDsj9z)]
 
 
 ### Inventory Management
